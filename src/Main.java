@@ -71,4 +71,5 @@ public class Main {
         System.out.println("сумма всех эелементов массива: " + sum);
     }
 
+
 }
